@@ -1,0 +1,26 @@
+body {
+  background-color: deepskyblue;
+}
+
+h1, h2 {
+  text-align: center;
+  text-shadow: 0 0 3px #FF0000;
+}
+
+p {
+  text-align: center;
+  text-shadow: 0 0 3px #FF0000;
+  font-size: 20px;
+}
+
+.images {
+text-align: center;
+}
+.images img {
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+}
+
+
+
