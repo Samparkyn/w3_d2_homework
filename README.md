@@ -1,5 +1,7 @@
 # w3_d2_homework
-Week 3, day 2, homework (sinatra)
+Week 3 - Day 2 - Sinatra homework
+
+Managed to get everything working, tests for string formatting pass, and added some css with some images showing a bit about me.
 
 These were our specs:
 Create a sinatra app which has the follwing routes:
